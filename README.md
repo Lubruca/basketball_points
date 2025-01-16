@@ -1,3 +1,9 @@
+# MIT License
+# This program counts the point of one person or one team by counting triples, regular shots and free throws.
+# Create by : Lucas Flores Fernández 
+# Date : 16/01/2025
+
+
 # Algorithm: Calculate total basketball points
 
 def calculate_basketball_points(triples, regular_shots, free_throws):
